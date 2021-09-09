@@ -519,7 +519,7 @@ myManageHook = fullscreenManageHook <+> manageDocks <+> composeAll $ concat $
     my3Shifts = ["telegram-desktop", "discord"]
     my4Shifts = ["Virtualbox", "steam", "Steam"]
     my5Shifts = ["sun-awt-X11-XFramePeer"]
-    my6Shifts = ["kodi", "deadcells", "dota2"]
+    my6Shifts = ["kodi", "deadcells", "dota2", "Hades"]
     my9Shifts = ["spotify", "pulseeffects", "Pulseeffects"]
 
 ------------------------------------------------------------------------
